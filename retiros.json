@@ -1,0 +1,16 @@
+[
+    {
+        "_nombre": "Pepe",
+        "_apellido": "Kay",
+        "_tipoDocumento": "DNI",
+        "_numeroDocumento": "4065656",
+        "_email": "ernesto@gmail.com",
+        "_tipoDeCuenta": "CCU$S",
+        "_moneda": "U$S",
+        "_saldoInicial": 300,
+        "_nroDeCuenta": 100002,
+        "_nroDeRetiro": 3001,
+        "_fecha": "26-11-2023",
+        "_monto": "100"
+    }
+]

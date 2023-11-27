@@ -1,0 +1,26 @@
+[
+    {
+        "_nombre": "Lucas",
+        "_apellido": "Kay",
+        "_tipoDocumento": "DNI",
+        "_numeroDocumento": "4000000",
+        "_email": "sarasa@gmail.com",
+        "_tipoDeCuenta": "CA$",
+        "_moneda": "$",
+        "_saldoInicial": 101000,
+        "_nroDeCuenta": 100001,
+        "_estaActivo": true
+    },
+    {
+        "_nombre": "Pepe",
+        "_apellido": "Kay",
+        "_tipoDocumento": "DNI",
+        "_numeroDocumento": "4065656",
+        "_email": "ernesto@gmail.com",
+        "_tipoDeCuenta": "CCU$S",
+        "_moneda": "U$S",
+        "_saldoInicial": 200,
+        "_nroDeCuenta": 100002,
+        "_estaActivo": false
+    }
+]
